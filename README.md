@@ -1,10 +1,9 @@
 # DSC210-final-project-topic10-SGD-CD
 
-## Project Topic: Randomization on Stochastic Gradient Descent (SGD) and Coordinate Descent (CD)
+### Project Topic: Randomization on Stochastic Gradient Descent (SGD) and Coordinate Descent (CD)
+### Instructor: Prof. Lily Weng
 
-## Instructor: Prof. Lily Weng
-
-### 1. Instruction:
+#### 1. Instructions:
 
 Ensure that the following libraries are installed in the enviroment.
 - **scikit-learn**
@@ -14,27 +13,27 @@ Ensure that the following libraries are installed in the enviroment.
 
 Open 210_final_project.ipynb and run all the cells of the notebook.
 
-### 2. Results:
+#### 2. Results:
 
 #### EDA
 The distribution of features:
 ![EDA](Figures/distribution_dataset.png)
 
 #### NLA
-* SDG
+* Stochastic Gradient Descent
 ![SGD_without_noise](Figures/Stochastic_without_noise.png)
 ![SGD_with_noise](Figures/SGD_with_noise.png)
 
-* CD
+* Coordinate Descent
 ![CD_without_noise](Figures/CD_without_noise.png)
 ![CD_with_noise](Figures/CD_With_noise.png)
 
-* CD Weight Update Trajectories
+* Coordinate Descent Weight Update Trajectories
 ![CD_Trajectories](Figures/WeightCD.png)
 
 #### SOTA
-* SVRG
+* Stochastic Variance Reduced Gradien
 ![SVRG_with_noise](Figures/SVRG_noise.png)
-* PCD
+* Parallel Coordinate Descent
 ![PCD_with_noise](Figures/PCD_With_noise.png)
   
