@@ -1,14 +1,14 @@
 # DSC210-final-project-topic10-SGD-CD
 
-## Topic: Randomization on Stochastic Gradient Descent(SGD) and Coordinate Descent (CD)
+## Topic: Randomization on Stochastic Gradient Descent (SGD) and Coordinate Descent (CD)
 
 ### 1. Instruction:
 
 Ensure that the following libraries are installed in the enviroment.
-* scikit-learn
-* matplotlib
-* numpy
-* panda
+- **scikit-learn**
+- **matplotlib**
+- **numpy**
+- **pandas**
 
 Open 210_final_project.ipynb and run all the cells of the notebook.
 
@@ -19,8 +19,9 @@ Open 210_final_project.ipynb and run all the cells of the notebook.
   
 * CD
 
-#### STOA
+#### SOTA
 * SGD
+  
 * CD
 
   
