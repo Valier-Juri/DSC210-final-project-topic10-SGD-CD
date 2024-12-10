@@ -14,14 +14,25 @@ Open 210_final_project.ipynb and run all the cells of the notebook.
 
 ### 2. Results:
 
+#### EDA
+The distribution of features:
+![EDA](Figures/distribution_dataset.png)
+
 #### NLA
 * SDG
-  
+![SGD_without_noise](Figures/Stochastic_without_noise.png)
+![SGD_with_noise](Figures/SGD_with_noise.png)
+
 * CD
+![CD_without_noise](Figures/CD_without_noise.png)
+![CD_with_noise](Figures/CD_With_noise.png)
+
+* CD Weight Update Trajectories
+![CD_Trajectories](Figures/WeightCD.png)
 
 #### SOTA
-* SGD
-  
-* CD
-
+* SVRG
+![SVRG_with_noise](Figures/SVRG_noise.png)
+* PCD
+![PCD_with_noise](Figures/PCD_With_noise.png)
   
