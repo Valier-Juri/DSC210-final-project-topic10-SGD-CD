@@ -11,7 +11,7 @@ Ensure that the following libraries are installed in the enviroment.
 - **numpy**
 - **pandas**
 
-Open 210_final_project.ipynb and run all the cells of the notebook.
+**Open 210_final_project.ipynb and run all the cells of the notebook.**
 
 #### 2. Results:
 
