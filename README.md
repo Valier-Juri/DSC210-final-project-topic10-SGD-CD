@@ -1,6 +1,8 @@
 # DSC210-final-project-topic10-SGD-CD
 
-## Topic: Randomization on Stochastic Gradient Descent (SGD) and Coordinate Descent (CD)
+## Project Topic: Randomization on Stochastic Gradient Descent (SGD) and Coordinate Descent (CD)
+
+## Instructor: Prof. Lily Weng
 
 ### 1. Instruction:
 
